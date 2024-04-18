@@ -1,0 +1,21 @@
+/style.css/
+
+body{
+	font-family: Arial, sans-serif;
+	background-color: moccasin;
+}
+h1{
+	color: sandybrown; font-size: 100px;margin-inline: 450px;
+}
+h2{
+	color: beige; font-size: 100px;margin-inline: 400px;
+}
+.row{
+	display:flex;
+}
+.col{
+	flex:1;
+	padding: 50px;
+	margin-inline: 10px;
+	background-color:whitesmoke;
+}
